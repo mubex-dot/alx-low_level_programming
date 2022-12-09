@@ -1,1 +1,1 @@
-0-preprocessor
+:%s/\s\+$//e
